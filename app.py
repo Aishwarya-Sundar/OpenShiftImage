@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Good Morning from Aishwarya! This session is exciting!! 
+Good Morning from Aishwarya! Editing this to view the change in Openshift deployment!! 
 ''')
 
 def run():
